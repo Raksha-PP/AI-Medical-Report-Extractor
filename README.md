@@ -6,9 +6,9 @@ AI Medical Report Extractor is a Streamlit application that analyzes medical rep
 Streamlit, LangChain, Ollama (Llama3), Pydantic, Python
 
 ## Features
-Patient Information Extraction – Extracts patient name, age, gender, diagnosis, and prescribed medications.
-Risk Assessment – Identifies severity level, critical findings, and recommended medical actions.
-Doctor Summary – Generates a concise summary of the medical report for quick understanding.
+1. Patient Information Extraction – Extracts patient name, age, gender, diagnosis, and prescribed medications.
+2. Risk Assessment – Identifies severity level, critical findings, and recommended medical actions.
+3. Doctor Summary – Generates a concise summary of the medical report for quick understanding.
 
 ## Conclusion
 This project demonstrates how local LLMs can be used to transform medical reports into structured insights while maintaining privacy and eliminating API costs.
